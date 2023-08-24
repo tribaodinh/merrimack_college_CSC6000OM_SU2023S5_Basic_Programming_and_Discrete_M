@@ -1,0 +1,2 @@
+# merrimack_college_CSC6000OM_SU2023S5_Basic_Programming_and_Discrete_M
+homework given during class
